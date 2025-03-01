@@ -1,0 +1,17 @@
+Name: Wendelyn D. Paller                                                                                                    March 01, 2025 
+CS3C
+Software Implementation and Management
+
+
+GitHub Hands-on Activity: Push Your First File
+
+1. What challenges did you face during this activity?
+This activity was not so difficult because we had already learned about the topic in previous lessons. As long as I carefully followed the instructor’s steps, the commands worked without issues. However, I did face one significant challenge during the activity, my internet connection was very slow. Due to this, my GitHub account did not function properly, making it difficult to complete the few steps in this activity. The slow internet speed caused delays in pushing changes, which was frustrating. Despite this, I managed to overcome the issue by being patient and retrying the commands when necessary.
+2. Which Git command was the most confusing?  
+At first, I didn’t understand what it was supposed to do because I wasn’t familiar with the term "-v" or why we needed to check it. However, after learning more, I realized that this command helps verify whether the local repository is correctly connected to a remote repository, such as GitHub. It lists all remote connections and shows whether they are set up for pushing (uploading changes). I think it’s useful when working with multiple collaborators or managing different repository connections. 
+3. How can version control help in real-world software development?
+•	Tracking Changes: Every modification to the code is recorded, showing who made the changes, what was changed, and when the update was made. This makes it easy to review progress and understand the evolution of the project.
+•	Fixing Mistakes: If an error is introduced, developers can revert to a previous version of the code without losing other important updates. This feature prevents major disruptions and helps in debugging.
+•	Team Collaboration: Multiple developers can work on different parts of a project simultaneously without interfering with each other’s work. Version control systems merge changes efficiently, reducing conflicts.
+•	Progress Backup: Since every version is stored, there is no risk of losing important work. If a system crashes or files are accidentally deleted, developers can retrieve previous versions quickly.
+Version control is an import tool in software development, especially for teams working on complex projects. It acts like a time machine for code, helping developers manage changes efficiently.
